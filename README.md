@@ -8,7 +8,7 @@
    
 **2. [Арифметические операции](https://github.com/Dima-Fes/Tix/tree/main/folder%202)**
    + [Упражнение 1](https://github.com/Dima-Fes/Tix/blob/main/folder%202/ex.1)
-   + [Упражнение 2 и 3](https://github.com/Dima-Fes/Tix/blob/main/folder%202/ex.2%20and%20ex.4)
+   + [Упражнение 2 и 3](https://github.com/Dima-Fes/Tix/blob/main/folder%202/ex.2%20and%20ex.3)
    + [Упражнение 4](https://github.com/Dima-Fes/Tix/blob/main/folder%202/ex.4)
    + [Упражнение 5](https://github.com/Dima-Fes/Tix/blob/main/folder%202/ex.5)
    + [Упражнение 6](https://github.com/Dima-Fes/Tix/blob/main/folder%202/ex.6)
