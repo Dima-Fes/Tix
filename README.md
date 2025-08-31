@@ -1,9 +1,9 @@
 # Задания для самоподготовки
 ## Глава 1. Основы С
 
-**1. [Переменые и типы данных] (https://github.com/Dima-Fes/Tix/tree/main/folder%201)**
-   + [Упражнение 1] (https://github.com/Dima-Fes/Tix/blob/main/folder%201/ex.1)
-   + [Упражнение 2] (https://github.com/Dima-Fes/Tix/blob/main/folder%201/ex.2)
+**1. [Переменые и типы данных](https://github.com/Dima-Fes/Tix/tree/main/folder%201)**
+   + [Упражнение 1](https://github.com/Dima-Fes/Tix/blob/main/folder%201/ex.1)
+   + [Упражнение 2](https://github.com/Dima-Fes/Tix/blob/main/folder%201/ex.2)
    + [Упражнение 3 и 4](https://github.com/Dima-Fes/Tix/blob/main/folder%201/ex.3%20and%20ex.4)
    
 **2. [Арифметические операции](https://github.com/Dima-Fes/Tix/tree/main/folder%202)**
